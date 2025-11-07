@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "orderNo": 1,
+        "name": "5te5 Namaz",
+        "description": "",
+        "google_play_url": "",
+        "app_store_url": "",
+        "language": "tr"
+    },
+    {
+        "id": 2,
+        "orderNo": 2,
+        "name": "5te5 Kaza Takibi",
+        "description": "",
+        "google_play_url": "",
+        "app_store_url": "",
+        "language": "tr"
+    },
+    {
+        "id": 3,
+        "orderNo": 3,
+        "name": "Lamelif Kur'an",
+        "description": "",
+        "google_play_url": "",
+        "app_store_url": "",
+        "language": "tr"
+    },
+    {
+        "id": 4,
+        "orderNo": 4,
+        "name": "Kopgit",
+        "description": "",
+        "google_play_url": "",
+        "app_store_url": "",
+        "language": "tr"
+    },
+    {
+        "id": 5,
+        "orderNo": 5,
+        "name": "Pusulam",
+        "description": "",
+        "google_play_url": "",
+        "app_store_url": ""
+    },
+    {
+        "id": 6,
+        "orderNo": 6,
+        "name": "Medresem",
+        "description": "",
+        "google_play_url": "",
+        "app_store_url": "",
+        "language": "tr"
+    }
+]
