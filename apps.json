@@ -2,54 +2,191 @@
     {
         "id": 1,
         "orderNo": 1,
-        "name": "5te5 Namaz",
-        "description": "",
-        "google_play_url": "",
-        "app_store_url": "",
+        "name": "5te5 Namaz Takibi",
+        "description": "40 günlük namaz alışkanlığı programı ile namaza başla",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.beste5v2",
+        "app_store_url": "https://apps.apple.com/app/id5te5-namaza-ba%C5%9Fla/id1602490524",
+        "image_name": "five",
         "language": "tr"
     },
     {
         "id": 2,
         "orderNo": 2,
         "name": "5te5 Kaza Takibi",
-        "description": "",
-        "google_play_url": "",
-        "app_store_url": "",
+        "description": "Namaz ve oruç kazalarını sistematik şekilde takip et",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.accident_prayer",
+        "app_store_url": "https://apps.apple.com/app/id5te5-kaza-namaz%C4%B1/id6751702091",
+        "image_name": "qadha",
         "language": "tr"
     },
     {
         "id": 3,
         "orderNo": 3,
         "name": "Lamelif Kur'an",
-        "description": "",
-        "google_play_url": "",
-        "app_store_url": "",
+        "description": "Kuran-ı Kerim ve Tecvid eğitimini videolarla öğren",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.lamelif.kuran",
+        "app_store_url": "https://apps.apple.com/app/idlamelif-kuran-ve-tecvid-e%C4%9Fitim/id1541395117",
+        "image_name": "lamelif",
         "language": "tr"
     },
     {
         "id": 4,
         "orderNo": 4,
-        "name": "Kopgit",
-        "description": "",
-        "google_play_url": "",
-        "app_store_url": "",
+        "name": "Kopgit Risale-i Nur",
+        "description": "Kuran Tefsiri okuma alışkanlığını kazan",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.kopgit.risaleinur",
+        "app_store_url": "https://apps.apple.com/app/idkopgit-risale-i-nur-e%C4%9Fitimi/id1534780135",
+        "image_name": "kopgit",
         "language": "tr"
     },
     {
         "id": 5,
         "orderNo": 5,
-        "name": "Pusulam",
-        "description": "",
-        "google_play_url": "",
-        "app_store_url": ""
+        "name": "Pusulam Sünnet",
+        "description": "Peygamberimizin (sav) sünnetlerine göre hayatını şekillendir",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.sunnah.app",
+        "app_store_url": "https://apps.apple.com/app/idpusulam-s%C3%BCnneti-hayata-ge%C3%A7ir/id1542536987",
+        "image_name": "pusulam",
+        "language": "tr"
     },
     {
         "id": 6,
         "orderNo": 6,
-        "name": "Medresem",
-        "description": "",
-        "google_play_url": "",
-        "app_store_url": "",
+        "name": "Medresem İslami Eğitim",
+        "description": "Gerçek bir medresede gibi İslami ilimleri tahsil edin",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.internals",
+        "app_store_url": "https://apps.apple.com/app/idmedresem-i-slami-e%C4%9Fitim/id1541506836",
+        "image_name": "medresem",
         "language": "tr"
+    },
+    {
+        "id": 7,
+        "orderNo": 1,
+        "name": "5te5 Prayer Tracker",
+        "description": "Start performing prayer with a 40-day habit-building program",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.beste5v2",
+        "app_store_url": "https://apps.apple.com/app/id5te5-namaza-ba%C5%9Fla/id1602490524",
+        "image_name": "five",
+        "language": "en"
+    },
+    {
+        "id": 8,
+        "orderNo": 2,
+        "name": "5te5 Qadha Tracker",
+        "description": "Systematically track missed prayers and fasts",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.accident_prayer",
+        "app_store_url": "https://apps.apple.com/app/id5te5-kaza-namaz%C4%B1/id6751702091",
+        "image_name": "qadha",
+        "language": "en"
+    },
+    {
+        "id": 9,
+        "orderNo": 3,
+        "name": "Kopgit Read Risale-i Nur",
+        "description": "Build a habit of reading Qur'an tafsir",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.kopgit.risaleinur",
+        "app_store_url": "https://apps.apple.com/app/idkopgit-risale-i-nur-e%C4%9Fitimi/id1534780135",
+        "image_name": "lamelif",
+        "language": "en"
+    },
+    {
+        "id": 10,
+        "orderNo": 4,
+        "name": "Lamalif Qur'an & Tajweed",
+        "description": "Learn the Qur'an and Tajweed through video lessons",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.lamelif.kuran",
+        "app_store_url": "https://apps.apple.com/app/idlamelif-kuran-ve-tecvid-e%C4%9Fitim/id1541395117",
+        "image_name": "kopgit",
+        "language": "en"
+    },
+    {
+        "id": 11,
+        "orderNo": 1,
+        "name": "5te5 Gebetstracker",
+        "description": "Starte ins Gebet mit einem 40-Tage-Programm zur Gebetsgewohnheit",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.beste5v2",
+        "app_store_url": "https://apps.apple.com/app/id5te5-namaza-ba%C5%9Fla/id1602490524",
+        "image_name": "five",
+        "language": "de"
+    },
+    {
+        "id": 12,
+        "orderNo": 2,
+        "name": "5te5 Qadha Tracker",
+        "description": "Verpasste Gebete und Fasten systematisch nachverfolgen",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.accident_prayer",
+        "app_store_url": "https://apps.apple.com/app/id5te5-kaza-namaz%C4%B1/id6751702091",
+        "image_name": "qadha",
+        "language": "de"
+    },
+    {
+        "id": 13,
+        "orderNo": 3,
+        "name": "Kopgit Risale-i Nur-Tafsir",
+        "description": "Gewöhne dir das Lesen von Koran-Tafsir an",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.kopgit.risaleinur",
+        "app_store_url": "https://apps.apple.com/app/idkopgit-risale-i-nur-e%C4%9Fitimi/id1534780135",
+        "image_name": "kopgit",
+        "language": "de"
+    },
+    {
+        "id": 14,
+        "orderNo": 1,
+        "name": "5te5 متتبع الصلاة",
+        "description": "ابدأ الصلاة مع برنامج 40 يومًا لاكتساب عادة الصلاة",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.beste5v2",
+        "app_store_url": "https://apps.apple.com/app/id5te5-namaza-ba%C5%9Fla/id1602490524",
+        "image_name": "five",
+        "language": "ar"
+    },
+    {
+        "id": 15,
+        "orderNo": 2,
+        "name": "5te5 متتبع القضاء",
+        "description": "تتبع الصلوات والصيام الفائتة بشكل منهجي",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.accident_prayer",
+        "app_store_url": "https://apps.apple.com/app/id5te5-kaza-namaz%C4%B1/id6751702091",
+        "image_name": "qadha",
+        "language": "ar"
+    },
+    {
+        "id": 16,
+        "orderNo": 3,
+        "name": "كوبجيت - قراءة تفسير رسائل نور",
+        "description": "اكتسب عادة قراءة تفسير القرآن",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.kopgit.risaleinur",
+        "app_store_url": "https://apps.apple.com/app/idkopgit-risale-i-nur-e%C4%9Fitimi/id1534780135",
+        "image_name": "kopgit",
+        "language": "ar"
+    },
+    {
+        "id": 17,
+        "orderNo": 1,
+        "name": "5te5 Трекер намаза",
+        "description": "Начни намаз с 40-дневной программы привычки",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.beste5v2",
+        "app_store_url": "https://apps.apple.com/app/id5te5-namaza-ba%C5%9Fla/id1602490524",
+        "image_name": "five",
+        "language": "ru"
+    },
+    {
+        "id": 18,
+        "orderNo": 2,
+        "name": "5te5 Трекер Када",
+        "description": "Систематически отслеживайте пропущенные намазы и посты",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.accident_prayer",
+        "app_store_url": "https://apps.apple.com/app/id5te5-kaza-namaz%C4%B1/id6751702091",
+        "image_name": "qadha",
+        "language": "ru"
+    },
+    {
+        "id": 19,
+        "orderNo": 3,
+        "name": "Kopgit Читать Рисале-И Нур Тафсир",
+        "description": "Привей привычку читать тафсир Корана",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.kopgit.risaleinur",
+        "app_store_url": "https://apps.apple.com/app/idkopgit-risale-i-nur-e%C4%9Fitimi/id1534780135",
+        "image_name": "kopgit",
+        "language": "ru"
     }
 ]
