@@ -61,6 +61,16 @@
     },
     {
         "id": 7,
+        "orderNo": 7,
+        "name": "Maneviyat",
+        "description": "Hatim, Salavat & Zikir ile manevi topluluğumuza katılın",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.internals",
+        "app_store_url": "https://apps.apple.com/app/idmedresem-i-slami-e%C4%9Fitim/id1541506836",
+        "image_name": "medresem",
+        "language": "tr"
+    },
+    {
+        "id": 7,
         "orderNo": 1,
         "name": "5te5 Prayer Tracker",
         "description": "Start performing prayer with a 40-day habit-building program",
