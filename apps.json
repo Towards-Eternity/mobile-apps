@@ -20,8 +20,18 @@
         "language": "tr"
     },
     {
-        "id": 3,
+        "id": 38,
         "orderNo": 3,
+        "name": "Step Islam",
+        "description": "Müslümanlığı sıfırdan veya daha detaylı öğrenmek isteyenler için bir eğitim programı",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.muslim",
+        "app_store_url": "https://apps.apple.com/app/muslim-app-by-towards-eternity/id6754092921",
+        "image_name": "islam",
+        "language": "tr"
+    },
+    {
+        "id": 3,
+        "orderNo": 4,
         "name": "Lamelif Kur'an",
         "description": "Kuran-ı Kerim ve Tecvid eğitimini videolarla öğren",
         "google_play_url": "https://play.google.com/store/apps/details?id=com.lamelif.kuran",
@@ -31,7 +41,7 @@
     },
     {
         "id": 4,
-        "orderNo": 4,
+        "orderNo": 5,
         "name": "My Risale",
         "description": "Kuran Tefsiri okuma alışkanlığını kazan",
         "google_play_url": "https://play.google.com/store/apps/details?id=com.kopgit.risaleinur",
@@ -41,7 +51,7 @@
     },
     {
         "id": 5,
-        "orderNo": 5,
+        "orderNo": 6,
         "name": "Pusulam Sünnet",
         "description": "Peygamberimizin (sav) sünnetlerine göre hayatını şekillendir",
         "google_play_url": "https://play.google.com/store/apps/details?id=com.sunnah.app",
@@ -51,7 +61,7 @@
     },
     {
         "id": 6,
-        "orderNo": 6,
+        "orderNo": 7,
         "name": "Medresem İslami Eğitim",
         "description": "Gerçek bir medresede gibi İslami ilimleri tahsil edin",
         "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.internals",
@@ -61,7 +71,7 @@
     },
     {
         "id": 37,
-        "orderNo": 7,
+        "orderNo": 8,
         "name": "Maneviyat",
         "description": "Hatim, Salavat & Zikir ile manevi topluluğumuza katılın",
         "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.maneviyat",
@@ -90,8 +100,18 @@
         "language": "en"
     },
     {
-        "id": 9,
+        "id": 39,
         "orderNo": 3,
+        "name": "Step Islam",
+        "description": "An educational program for those who want to learn Islam from scratch or in more detail",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.muslim",
+        "app_store_url": "https://apps.apple.com/app/muslim-app-by-towards-eternity/id6754092921",
+        "image_name": "islam",
+        "language": "en"
+    },
+    {
+        "id": 9,
+        "orderNo": 4,
         "name": "My Risale",
         "description": "Build a habit of reading Qur'an tafsir",
         "google_play_url": "https://play.google.com/store/apps/details?id=com.kopgit.risaleinur",
@@ -101,7 +121,7 @@
     },
     {
         "id": 10,
-        "orderNo": 4,
+        "orderNo": 5,
         "name": "Lamalif Qur'an & Tajweed",
         "description": "Learn the Qur'an and Tajweed through video lessons",
         "google_play_url": "https://play.google.com/store/apps/details?id=com.lamelif.kuran",
