@@ -1,0 +1,66 @@
+[
+    {
+        "id": "five",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.beste5v2",
+        "app_store_url": "https://apps.apple.com/app/id5te5-namaza-ba%C5%9Fla/id1602490524",
+        "ratings": 4.9,
+        "downloads": 1000000,
+        "language_count": 15
+    },
+    {
+        "id": "qadha",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.accident_prayer",
+        "app_store_url": "https://apps.apple.com/app/id5te5-kaza-namaz%C4%B1/id6751702091",
+        "ratings": 4.9,
+        "downloads": 35000,
+        "language_count": 14
+    },
+    {
+        "id": "islam",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.muslim",
+        "app_store_url": "https://apps.apple.com/app/muslim-app-by-towards-eternity/id6754092921",
+        "ratings": 4.9,
+        "downloads": 1000,
+        "language_count": 2
+    },
+    {
+        "id": "lamelif",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.lamelif.kuran",
+        "app_store_url": "https://apps.apple.com/app/idlamelif-kuran-ve-tecvid-e%C4%9Fitim/id1541395117",
+        "ratings": 4.9,
+        "downloads": 1000000,
+        "language_count": 2
+    },
+    {
+        "id": "kopgit",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.kopgit.risaleinur",
+        "app_store_url": "https://apps.apple.com/app/idkopgit-risale-i-nur-e%C4%9Fitimi/id1534780135",
+        "ratings": 4.9,
+        "downloads": 260000,
+        "language_count": 8
+    },
+    {
+        "id": "pusulam",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.sunnah.app",
+        "app_store_url": "https://apps.apple.com/app/idpusulam-s%C3%BCnneti-hayata-ge%C3%A7ir/id1542536987",
+        "ratings": 5.0,
+        "downloads": 80000,
+        "language_count": 1
+    },
+    {
+        "id": "medresem",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.internals",
+        "app_store_url": "https://apps.apple.com/app/idmedresem-i-slami-e%C4%9Fitim/id1541506836",
+        "ratings": 4.8,
+        "downloads": 85000,
+        "language_count": 1
+    },
+    {
+        "id": "maneviyat",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.maneviyat",
+        "app_store_url": "https://apps.apple.com/app/idcom.sozlerkosku.maneviyat/id6756069536",
+        "ratings": 5.0,
+        "downloads": 1200,
+        "language_count": 1
+    }
+]
