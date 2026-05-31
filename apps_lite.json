@@ -1,0 +1,289 @@
+[
+    {
+        "id": "five",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.beste5v2",
+        "app_store_url": "https://apps.apple.com/app/id5te5-namaza-ba%C5%9Fla/id1602490524",
+        "ratings": 4.9,
+        "downloads": 1000000,
+        "descriptions": [
+            {
+                "title": "5te5 Namaz Takibi",
+                "language": "tr",
+                "content": "40 günlük program ile kalıcı namaz alışkanlığı kazan"
+            },
+            {
+                "title": "5te5 Prayer Tracker",
+                "language": "en",
+                "content": "Start performing prayer with a 40-day habit-building program"
+            },
+            {
+                "title": "5te5 Gebetstracker",
+                "language": "de",
+                "content": "Starte ins Gebet mit einem 40-Tage-Programm zur Gebetsgewohnheit"
+            },
+            {
+                "title": "5te5 متتبع الصلاة",
+                "language": "ar",
+                "content": "ابدأ الصلاة مع برنامج 40 يومًا لاكتساب عادة الصلاة"
+            },
+            {
+                "title": "5te5 Трекер намаза",
+                "language": "ru",
+                "content": "Начни намаз c 40-дневной программы привычки"
+            },
+            {
+                "title": "5te5 نماز شمار",
+                "language": "fa",
+                "content": "با این برنامه، ۴۰ روزه عادت به نماز خواندن را آغاز کن"
+            },
+            {
+                "title": "5te5 नमाज़ ट्रैकर",
+                "language": "hi",
+                "content": "40-दिवसीय आदत-निर्माण कार्यक्रम के साथ नमाज़ शुरू करें"
+            },
+            {
+                "title": "5te5 Oración",
+                "language": "es",
+                "content": "Comienza la oración con un programa de 40 días para adquirir el hábito"
+            },
+            {
+                "title": "5te5 Suivi des prières",
+                "language": "fr",
+                "content": "Commence la prière avec un programme de 40 jours pour en faire une habitude"
+            },
+            {
+                "title": "5te5 নামাজ ট্র্যাকার",
+                "language": "bn",
+                "content": "৪০ দিনের প্রোগ্রামের মাধ্যমে নামাজের অভ্যাস গড়ে তুলুন"
+            },
+            {
+                "title": "5te5 礼拜追踪",
+                "language": "zh",
+                "content": "通过40天习惯培养计划开始履行每日礼拜"
+            },
+            {
+                "title": "5te5 Pelacak Salat",
+                "language": "id",
+                "content": "Mulailah salat dengan program 40 hari untuk membentuk kebiasaan"
+            },
+            {
+                "title": "5te5 Namoz kuzatuvchi",
+                "language": "uz",
+                "content": "40 kunlik odat shakllantirish dasturi bilan namozni boshlang"
+            },
+            {
+                "title": "5te5 namaz tracker",
+                "language": "ur",
+                "content": "نماز کی عادت ڈالنے کے لیے 40 دن کا پروگرام"
+            }
+        ]
+    },
+    {
+        "id": "qadha",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.accident_prayer",
+        "app_store_url": "https://apps.apple.com/app/id5te5-kaza-namaz%C4%B1/id6751702091",
+        "ratings": 5.0,
+        "downloads": 70000,
+        "descriptions": [
+            {
+                "title": "5te5 Kaza Takibi",
+                "language": "tr",
+                "content": "Namaz ve oruç kazalarını kolayca hesapla ve bitir"
+            },
+            {
+                "title": "5te5 Qadha Tracker",
+                "language": "en",
+                "content": "Systematically track missed prayers and fasts"
+            },
+            {
+                "title": "5te5 Qadha Tracker",
+                "language": "de",
+                "content": "Verpasste Gebete und Fasten systematisch nachverfolgen"
+            },
+            {
+                "title": "5te5 متتبع القضاء",
+                "language": "ar",
+                "content": "تتبع الصلوات والصيام الفائتة بشكل منهجي"
+            },
+            {
+                "title": "5te5 Трекер Када",
+                "language": "ru",
+                "content": "Систематически отслеживайте пропущенные намазы и посты"
+            },
+            {
+                "title": "5te5 قضا شمار",
+                "language": "fa",
+                "content": "نمازها و روزه‌های قضای خود را به‌صورت منظم پیگیری کنید"
+            },
+            {
+                "title": "5te5 क़ज़ा ट्रैकर",
+                "language": "hi",
+                "content": "छूटे हुए नमाज़ और रोज़ों का व्यवस्थित रूप से ट्रैक करें"
+            },
+            {
+                "title": "5te5 Oraciones Perdidas (Qada)",
+                "language": "es",
+                "content": "Sigue sistemáticamente las oraciones y ayunos perdidos"
+            },
+            {
+                "title": "5te5 Suivi Qadha",
+                "language": "fr",
+                "content": "Suivez systématiquement vos prières et jeûnes manqués"
+            },
+            {
+                "title": "5te5 কাযা নামাজ ট্র্যাকার",
+                "language": "bn",
+                "content": "Систематически отслеживайте пропущенные намазы и посты"
+            },
+            {
+                "title": "5te5 补拜追踪",
+                "language": "zh",
+                "content": "系统化追踪漏掉的礼拜与斋戒"
+            },
+            {
+                "title": "5te5 Pelacak Qadha",
+                "language": "id",
+                "content": "Lacak secara sistematis shalat dan puasa yang terlewat"
+            },
+            {
+                "title": "5te5 Qazo kuzatuvchi",
+                "language": "uz",
+                "content": "O‘tkazib yuborilgan namoz va ro‘zalarni tizimli kuzating"
+            },
+            {
+                "title": "5te5 qaza namaz tracker",
+                "language": "ur",
+                "content": "نمازوں اور روزوں کی قضا کو باقاعدگی سے ٹریک کریں"
+            }
+        ]
+    },
+    {
+        "id": "kopgit",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.kopgit.risaleinur",
+        "app_store_url": "https://apps.apple.com/app/idkopgit-risale-i-nur-e%C4%9Fitimi/id1534780135",
+        "ratings": 4.9,
+        "downloads": 400000,
+        "descriptions": [
+            {
+                "title": "My Risale",
+                "language": "tr",
+                "content": "Kur'an tefsiri öğrenmenin en pratik yolu. Video ve kitapla ilerle"
+            },
+            {
+                "title": "My Risale",
+                "language": "en",
+                "content": "Build a habit of reading Qur'an tafsir"
+            },
+            {
+                "title": "My Risale",
+                "language": "de",
+                "content": "Gewöhne dir das Lesen von Koran-Tafsir an"
+            },
+            {
+                "title": "My Risale",
+                "language": "ar",
+                "content": "اكتسب عادة قراءة تفسير القرآن"
+            },
+            {
+                "title": "My Risale",
+                "language": "ru",
+                "content": "Привей привычку читать тафсир Корана"
+            },
+            {
+                "title": "My Risale",
+                "language": "bn",
+                "content": "কুরআন তাফসীর পড়ার অভ্যাস গড়ে তুলুন"
+            },
+            {
+                "title": "My Risale",
+                "language": "uz",
+                "content": "Qur'on tafsirini o‘qish odatini shakllantiring"
+            },
+            {
+                "title": "My Risale",
+                "language": "ur",
+                "content": "قرآن تفسیر پڑھنے کی عادت اپنائیں"
+            }
+        ]
+    },
+    {
+        "id": "islam",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.muslim",
+        "app_store_url": "https://apps.apple.com/app/muslim-app-by-towards-eternity/id6754092921",
+        "ratings": 5.0,
+        "downloads": 20000,
+        "descriptions": [
+            {
+                "language": "tr",
+                "title": "Step Islam",
+                "content": "İslam'ı sıfırdan veya derinlemesine, adım adım keşfet"
+            },
+            {
+                "language": "en",
+                "title": "Step Islam",
+                "content": "Learn Islam from scratch or in more detail, step by step"
+            }
+        ]
+    },
+    {
+        "id": "lamelif",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.lamelif.kuran",
+        "app_store_url": "https://apps.apple.com/app/idlamelif-kuran-ve-tecvid-e%C4%9Fitim/id1541395117",
+        "ratings": 4.9,
+        "downloads": 1400000,
+        "descriptions": [
+            {
+                "language": "tr",
+                "title": "Lamelif Kur'an",
+                "content": "Kur'an-ı Kerim ve Tecvid eğitimini 1 günde öğren"
+            },
+            {
+                "language": "en",
+                "title": "Lamalif Qur'an",
+                "content": "Learn the Qur'an and Tajweed through video lessons"
+            }
+        ]
+    },
+    {
+        "id": "pusulam",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.sunnah.app",
+        "app_store_url": "https://apps.apple.com/app/idpusulam-s%C3%BCnneti-hayata-ge%C3%A7ir/id1542536987",
+        "ratings": 5.0,
+        "downloads": 150000,
+        "descriptions": [
+            {
+                "language": "tr",
+                "title": "Pusulam Sünnet",
+                "content": "Sünnet'e uygun yaşamak için pusulan"
+            }
+        ]
+    },
+    {
+        "id": "medresem",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.internals",
+        "app_store_url": "https://apps.apple.com/app/idmedresem-i-slami-e%C4%9Fitim/id1541506836",
+        "ratings": 4.8,
+        "downloads": 120000,
+        "descriptions": [
+            {
+                "language": "tr",
+                "title": "Medresem",
+                "content": "Gerçek bir medresede gibi İslami ilimleri tahsil edin"
+            }
+        ]
+    },
+    {
+        "id": "maneviyat",
+        "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.maneviyat",
+        "app_store_url": "https://apps.apple.com/app/id6756069536",
+        "ratings": 4.9,
+        "downloads": 9000,
+        "descriptions": [
+            {
+                "language": "tr",
+                "title": "Maneviyat",
+                "content": "Binlerce kişiyle birlikte hatim, salavat ve zikre katıl"
+            }
+        ]
+    }
+]
