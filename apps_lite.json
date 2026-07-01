@@ -82,7 +82,7 @@
         "id": "qadha",
         "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.accident_prayer",
         "app_store_url": "https://apps.apple.com/app/id5te5-kaza-namaz%C4%B1/id6751702091",
-        "ratings": 5.0,
+        "ratings": 4.9,
         "downloads": 70000,
         "descriptions": [
             {
@@ -203,6 +203,16 @@
                 "title": "My Risale",
                 "language": "ur",
                 "content": "قرآن تفسیر پڑھنے کی عادت اپنائیں"
+            },
+            {
+                "title": "My Risale",
+                "language": "id",
+                "content": "Cara paling praktis untuk mempelajari tafsir Al-Qur'an."
+            },
+            {
+                "title": "My Risale",
+                "language": "fr",
+                "content": "La manière la plus pratique d'apprendre l'exégèse du Coran."
             }
         ]
     },
@@ -240,7 +250,46 @@
             {
                 "language": "en",
                 "title": "Lamalif Qur'an",
-                "content": "Learn the Qur'an and Tajweed through video lessons"
+                "content": "Learn the Holy Quran and Tajweed in 1 day"
+            },
+            {
+                "language": "fr",
+                "title": "Lamalif Qur'an",
+                "content": "Apprenez le Coran et le tajwid en une journée"
+            },
+            {
+                "language": "de",
+                "title": "Lamalif Qur'an",
+                "content": "Lerne den Heiligen Koran und Tajweed an einem Tag"
+            },
+            {
+                "language": "es",
+                "title": "Lamalif Qur'an",
+                "content": "Aprende el Sagrado Corán y el tajwid en un día"
+            },
+            {
+                "language": "uz",
+                "title": "Lamalif Qur'an",
+                "content": "Muqaddas Qur'on va tajvidni bir kunda o'rganing"
+            }
+        ]
+    },
+    {
+        "id": "adhan",
+        "google_play_url": "https://play.google.com/store/apps/details?id=org.sozlerkosku.adhantimes",
+        "app_store_url": "https://apps.apple.com/app/id6762038263",
+        "ratings": 5.0,
+        "downloads": 100,
+        "descriptions": [
+            {
+                "language": "tr",
+                "title": "Lamelif Ezan",
+                "content": "Widget & bildirim ile namaz vakitlerini takip et"
+            },
+            {
+                "language": "en",
+                "title": "Lamalif Adhan",
+                "content": "Track prayer times with widget & notification"
             }
         ]
     },
@@ -248,7 +297,7 @@
         "id": "pusulam",
         "google_play_url": "https://play.google.com/store/apps/details?id=com.sunnah.app",
         "app_store_url": "https://apps.apple.com/app/idpusulam-s%C3%BCnneti-hayata-ge%C3%A7ir/id1542536987",
-        "ratings": 5.0,
+        "ratings": 4.9,
         "downloads": 150000,
         "descriptions": [
             {
@@ -276,7 +325,7 @@
         "id": "maneviyat",
         "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.maneviyat",
         "app_store_url": "https://apps.apple.com/app/id6756069536",
-        "ratings": 4.9,
+        "ratings": 5.0,
         "downloads": 9000,
         "descriptions": [
             {
