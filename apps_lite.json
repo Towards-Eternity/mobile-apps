@@ -4,7 +4,7 @@
         "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.beste5v2",
         "app_store_url": "https://apps.apple.com/app/id5te5-namaza-ba%C5%9Fla/id1602490524",
         "ratings": 4.9,
-        "downloads": 1100000,
+        "downloads": 1200000,
         "descriptions": [
             {
                 "title": "5te5 Namaz Takibi",
@@ -83,7 +83,7 @@
         "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.accident_prayer",
         "app_store_url": "https://apps.apple.com/app/id5te5-kaza-namaz%C4%B1/id6751702091",
         "ratings": 4.9,
-        "downloads": 90000,
+        "downloads": 110000,
         "descriptions": [
             {
                 "title": "5te5 Kaza Takibi",
@@ -162,7 +162,7 @@
         "google_play_url": "https://play.google.com/store/apps/details?id=com.kopgit.risaleinur",
         "app_store_url": "https://apps.apple.com/app/idkopgit-risale-i-nur-e%C4%9Fitimi/id1534780135",
         "ratings": 4.9,
-        "downloads": 430000,
+        "downloads": 450000,
         "descriptions": [
             {
                 "title": "My Risale",
@@ -213,6 +213,11 @@
                 "title": "My Risale",
                 "language": "fr",
                 "content": "La manière la plus pratique d'apprendre l'exégèse du Coran."
+            },
+            {
+                "title": "My Risale",
+                "language": "es",
+                "content": "Adquiere el hábito de leer el tafsir del Corán"
             }
         ]
     },
@@ -221,7 +226,7 @@
         "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.muslim",
         "app_store_url": "https://apps.apple.com/app/muslim-app-by-towards-eternity/id6754092921",
         "ratings": 5.0,
-        "downloads": 50000,
+        "downloads": 75000,
         "descriptions": [
             {
                 "language": "tr",
@@ -232,6 +237,26 @@
                 "language": "en",
                 "title": "Step Islam",
                 "content": "Learn Islam from scratch or in more detail, step by step"
+            },
+            {
+                "language": "ar",
+                "title": "Step Islam",
+                "content": "تعلم الإسلام من الصفر أو بتفصيل أكبر، خطوة بخطوة"
+            },
+            {
+                "language": "es",
+                "title": "Step Islam",
+                "content": "Aprende sobre el islam desde cero o en mayor profundidad, paso a paso"
+            },
+            {
+                "language": "fr",
+                "title": "Step Islam",
+                "content": "Découvrez l'islam en partant de zéro ou approfondissez vos connaissances, étape par étape"
+            },
+            {
+                "language": "ru",
+                "title": "Step Islam",
+                "content": "Изучайте ислам с нуля или более подробно, шаг за шагом"
             }
         ]
     },
@@ -271,6 +296,16 @@
                 "language": "uz",
                 "title": "Lamalif Qur'an",
                 "content": "Muqaddas Qur'on va tajvidni bir kunda o'rganing"
+            },
+            {
+                "language": "id",
+                "title": "Lamalif Qur'an",
+                "content": "Pelajari Al-Qur'an dan Tajwid dalam satu hari"
+            },
+            {
+                "language": "hi",
+                "title": "Lamalif Qur'an",
+                "content": "एक ही दिन में कुरान और तजवीद सीखें"
             }
         ]
     },
@@ -279,7 +314,7 @@
         "google_play_url": "https://play.google.com/store/apps/details?id=org.sozlerkosku.adhantimes",
         "app_store_url": "https://apps.apple.com/app/id6762038263",
         "ratings": 5.0,
-        "downloads": 300,
+        "downloads": 2000,
         "descriptions": [
             {
                 "language": "tr",
@@ -326,7 +361,7 @@
         "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.maneviyat",
         "app_store_url": "https://apps.apple.com/app/id6756069536",
         "ratings": 5.0,
-        "downloads": 10000,
+        "downloads": 20000,
         "descriptions": [
             {
                 "language": "tr",
