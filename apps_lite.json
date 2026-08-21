@@ -75,6 +75,16 @@
                 "title": "5te5 namaz tracker",
                 "language": "ur",
                 "content": "نماز کی عادت ڈالنے کے لیے 40 دن کا پروگرام"
+            },
+            {
+                "title": "5te5 예배 트래커",
+                "language": "ko",
+                "content": "40일 습관 형성 프로그램으로 예배를 시작하세요"
+            },
+            {
+                "title": "5te5 د لمونځ تعقیبونکی",
+                "language": "ps",
+                "content": "د ۴۰ ورځني عادت جوړولو پروګرام سره لمونځ پیل کړئ"
             }
         ]
     },
@@ -270,42 +280,57 @@
             {
                 "language": "tr",
                 "title": "Lamelif Kur'an",
-                "content": "Kur'an-ı Kerim ve Tecvid eğitimini 1 günde öğren"
+                "content": "Kur'an-ı Kerim ve Tecvid eğitimini 1 haftada öğren"
             },
             {
                 "language": "en",
                 "title": "Lamalif Qur'an",
-                "content": "Learn the Holy Quran and Tajweed in 1 day"
+                "content": "Learn the Holy Quran and Tajweed in 1 week"
             },
             {
                 "language": "fr",
                 "title": "Lamalif Qur'an",
-                "content": "Apprenez le Coran et le tajwid en une journée"
+                "content": "Apprenez le Coran et le tajwid en une semaine"
             },
             {
                 "language": "de",
                 "title": "Lamalif Qur'an",
-                "content": "Lerne den Heiligen Koran und Tajweed an einem Tag"
+                "content": "Lerne den Heiligen Koran und Tajweed an einem Woche"
             },
             {
                 "language": "es",
                 "title": "Lamalif Qur'an",
-                "content": "Aprende el Sagrado Corán y el tajwid en un día"
+                "content": "Aprende el Sagrado Corán y el tajwid en una semana"
             },
             {
                 "language": "uz",
                 "title": "Lamalif Qur'an",
-                "content": "Muqaddas Qur'on va tajvidni bir kunda o'rganing"
+                "content": "Muqaddas Qur'on va tajvidni bir haftada o'rganing"
             },
             {
                 "language": "id",
                 "title": "Lamalif Qur'an",
-                "content": "Pelajari Al-Qur'an dan Tajwid dalam satu hari"
+                "content": "Pelajari Al-Qur'an dan Tajwid dalam satu minggu"
             },
             {
                 "language": "hi",
                 "title": "Lamalif Qur'an",
-                "content": "एक ही दिन में कुरान और तजवीद सीखें"
+                "content": "एक ही सप्ताह में कुरान और तजवीद सीखें"
+            },
+            {
+                "language": "fa",
+                "title": "Lamalif Qur'an",
+                "content": "قرآن کریم و تجوید را در ۱ هفته بیاموز"
+            },
+            {
+                "language": "ru",
+                "title": "Lamalif Qur'an",
+                "content": "Изучите Священный Коран и таджвид за 1 неделю"
+            },
+            {
+                "language": "bn",
+                "title": "Lamalif Qur'an",
+                "content": "এক সপ্তাহে পবিত্র কুরআন ও তাজবীদ শিখুন"
             }
         ]
     },
