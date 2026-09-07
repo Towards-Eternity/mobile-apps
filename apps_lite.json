@@ -93,7 +93,7 @@
         "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.accident_prayer",
         "app_store_url": "https://apps.apple.com/app/id5te5-kaza-namaz%C4%B1/id6751702091",
         "ratings": 4.9,
-        "downloads": 110000,
+        "downloads": 130000,
         "descriptions": [
             {
                 "title": "5te5 Kaza Takibi",
@@ -172,7 +172,7 @@
         "google_play_url": "https://play.google.com/store/apps/details?id=com.kopgit.risaleinur",
         "app_store_url": "https://apps.apple.com/app/idkopgit-risale-i-nur-e%C4%9Fitimi/id1534780135",
         "ratings": 4.9,
-        "downloads": 450000,
+        "downloads": 480000,
         "descriptions": [
             {
                 "title": "My Risale",
@@ -236,7 +236,7 @@
         "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.muslim",
         "app_store_url": "https://apps.apple.com/app/muslim-app-by-towards-eternity/id6754092921",
         "ratings": 5.0,
-        "downloads": 75000,
+        "downloads": 100000,
         "descriptions": [
             {
                 "language": "tr",
@@ -247,6 +247,11 @@
                 "language": "en",
                 "title": "Step Islam",
                 "content": "Learn Islam from scratch or in more detail, step by step"
+            },
+            {
+                "language": "de",
+                "title": "Step Islam",
+                "content": "Entdecke den Islam von Grund auf oder im Detail, Schritt für Schritt"
             },
             {
                 "language": "ar",
@@ -264,9 +269,24 @@
                 "content": "Découvrez l'islam en partant de zéro ou approfondissez vos connaissances, étape par étape"
             },
             {
+                "language": "ko",
+                "title": "Step Islam",
+                "content": "이슬람을 처음부터 또는 더 깊이, 단계별로 알아보세요"
+            },
+            {
                 "language": "ru",
                 "title": "Step Islam",
                 "content": "Изучайте ислам с нуля или более подробно, шаг за шагом"
+            },
+            {
+                "language": "ur",
+                "title": "Step Islam",
+                "content": "اسلام کو شروع سے یا تفصیل سے، قدم بہ قدم سیکھیں"
+            },
+            {
+                "language": "id",
+                "title": "Step Islam",
+                "content": "Pelajari Islam dari nol atau lebih mendalam, langkah demi langkah"
             }
         ]
     },
@@ -339,7 +359,7 @@
         "google_play_url": "https://play.google.com/store/apps/details?id=org.sozlerkosku.adhantimes",
         "app_store_url": "https://apps.apple.com/app/id6762038263",
         "ratings": 5.0,
-        "downloads": 2000,
+        "downloads": 4000,
         "descriptions": [
             {
                 "language": "tr",
@@ -372,7 +392,7 @@
         "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.internals",
         "app_store_url": "https://apps.apple.com/app/idmedresem-i-slami-e%C4%9Fitim/id1541506836",
         "ratings": 4.8,
-        "downloads": 120000,
+        "downloads": 130000,
         "descriptions": [
             {
                 "language": "tr",
@@ -386,7 +406,7 @@
         "google_play_url": "https://play.google.com/store/apps/details?id=com.sozlerkosku.maneviyat",
         "app_store_url": "https://apps.apple.com/app/id6756069536",
         "ratings": 5.0,
-        "downloads": 20000,
+        "downloads": 25000,
         "descriptions": [
             {
                 "language": "tr",
